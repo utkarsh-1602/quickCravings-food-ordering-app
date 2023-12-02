@@ -10,3 +10,17 @@ Welcome to Quick Cravings, your go-to solution for satisfying your cravings with
 - Real-time Updates: Track your orders and receive timely updates.
 - Easy Integration: Seamless connection with various APIs for menu items, user info, and orders.
 - Responsive Design: Consistent experience across devices.
+
+### Tech Stack
+**Frontend** 
+- React.js: User interface library.
+- Next.js: React framework for server-side rendering.
+- Tailwind CSS: Utility-first CSS framework.
+
+**Backend** 
+- Node.js: JavaScript runtime for server-side development.
+- Express.js: Web application framework for Node.js.
+- MongoDB: NoSQL database for storing data.
+
+**Authentication** 
+- NextAuth.js: Authentication library for Next.js applications.
